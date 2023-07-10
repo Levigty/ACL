@@ -1,6 +1,6 @@
-# 3s-CACA
+# ACL
 
-This is an official PyTorch implementation of **"Self-Supervised Action Recognition by Cross-Model Adversarial and Cross-Stream Aggregation" **. 
+This is an official PyTorch implementation of **"Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition" **. 
 
 ![](./fig/3s-CACA.png)
 
@@ -62,10 +62,10 @@ Please cite our paper if you find this repository useful in your resesarch:
 
 ```
 @inproceedings{guo2022aimclr,
-  Title= {Contrastive Learning from Extremely Augmented Skeleton Sequences for Self-supervised Action Recognition},
-  Author= {Tianyu, Guo and Hong, Liu and Zhan, Chen and Mengyuan, Liu and Tao, Wang  and Runwei, Ding},
-  Booktitle= {AAAI},
-  Year= {2022}
+  Title= {Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition},
+  Author= {Tianyu, Guo and Mengyuan, Liu and Hong, Liu and Wehao, Li and Jingwen, Guo and Tao, Wang and Yidi, Li},
+  Booktitle= {-},
+  Year= {2023}
 }
 ```
 
